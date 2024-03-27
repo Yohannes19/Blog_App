@@ -20,7 +20,7 @@ This React application empowers users to:
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/blog-app.git
+   git clone [https://github.com/](https://github.com/)Yohannes19/blog-app.git
 Install Dependencies:
 
 Bash
